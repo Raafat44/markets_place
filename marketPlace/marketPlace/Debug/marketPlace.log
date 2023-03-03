@@ -1,0 +1,3 @@
+﻿  Customer.cpp
+c:\users\green\desktop\main marketspace\customer.cpp(72): warning C4018: '<': signed/unsigned mismatch
+  marketPlace.vcxproj -> C:\Users\green\Desktop\main marketspace\marketPlace\Debug\marketPlace.exe
